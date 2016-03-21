@@ -1,28 +1,28 @@
 body {background: white;
 }
 
-#A {width: 100px;
-	padding: 5px;
-	border: 2px solid navy;
-	margin: 2px;
+#A {width: 200px;
+	padding: 15px;
+	border: 20px solid navy;
+	margin: 20px;
 	font: Helvetica;
 	color: rgb(122,0,0);
 	font-size: 1.5em;
 }
 
-#B {width: 100px;
-	padding: 5px;
-	border: 2px solid navy;
-	margin: 2px;
+#B {width: 200px;
+	padding: 15px;
+	border: 20px solid navy;
+	margin: 20px;
 	font: Helvetica;
 	color: rgb(122,0,0);
 	font-size: 1.5em;
 }
 
-#C {width: 100px;
-	padding: 5px;
-	border: 2px solid navy;
-	margin: 2px;
+#C {width: 200px;
+	padding: 15px;
+	border: 20px solid navy;
+	margin: 20px;
 	font: Helvetica;
 	color: rgb(122,0,0);
 	font-size: 1.5em;

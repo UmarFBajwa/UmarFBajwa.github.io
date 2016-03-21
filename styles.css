@@ -1,29 +1,32 @@
 body {background: white;
 }
 
-#A {width: 300px;
-	padding: 25px;
-	border: 25px solid navy;
-	margin: 25px;
+#A {width: 100px;
+	padding: 5px;
+	border: 2px solid navy;
+	margin: 2px;
 	font: Helvetica;
 	color: rgb(122,0,0);
-	font-size: 3em;
+	font-size: 1.5em;
+	float: left;
 }
 
-#B {width: 300px;
-	padding: 25px;
-	border: 25px solid navy;
-	margin: 25px;
+#B {width: 100px;
+	padding: 5px;
+	border: 2px solid navy;
+	margin: 2px;
 	font: Helvetica;
 	color: rgb(122,0,0);
-	font-size: 3em;
+	font-size: 1.5em;
+	float: left;
 }
 
-#C {width: 300px;
-	padding: 25px;
-	border: 25px solid navy;
-	margin: 25px;
+#C {width: 100px;
+	padding: 5px;
+	border: 2px solid navy;
+	margin: 2px;
 	font: Helvetica;
 	color: rgb(122,0,0);
-	font-size: 3em;
+	font-size: 1.5em;
+	float: left;
 }

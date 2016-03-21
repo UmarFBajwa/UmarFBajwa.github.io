@@ -1,24 +1,29 @@
 body {background: white;
 }
 
-.A {width: 300px;
+#A {width: 300px;
 	padding: 25px;
 	border: 25px solid navy;
 	margin: 25px;
 	font: Helvetica;
 	color: rgb(122,0,0);
+	font-size: 3em;
 }
-.B {width: 300px;
+
+#B {width: 300px;
 	padding: 25px;
 	border: 25px solid navy;
 	margin: 25px;
 	font: Helvetica;
 	color: rgb(122,0,0);
+	font-size: 3em;
 }
-.B {width: 300px;
+
+#C {width: 300px;
 	padding: 25px;
 	border: 25px solid navy;
 	margin: 25px;
 	font: Helvetica;
 	color: rgb(122,0,0);
+	font-size: 3em;
 }

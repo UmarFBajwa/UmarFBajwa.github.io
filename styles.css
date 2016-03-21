@@ -29,6 +29,8 @@ body {background: white;
 }
 
 .heading {font-size: 2em;
+	margin: auto;
+	width: 50%;
 	background-image: url(http://e-uhs.efxinternet.com/admin/Image%20Library/Miscellaneous/SunnySkyMeadowIM.jpg);
 }
 
@@ -38,5 +40,5 @@ a:hover {
 }
 
 a:visited {
-	color: blue;
+	color: yellow;
 }

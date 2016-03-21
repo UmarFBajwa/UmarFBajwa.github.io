@@ -30,7 +30,9 @@ body {background: white;
 
 .heading {font-size: 2em;
 	margin: auto;
-	width: 50%;
+	width: 20%;
+	left: 0px;
+	text-align: center;
 	background-image: url(http://e-uhs.efxinternet.com/admin/Image%20Library/Miscellaneous/SunnySkyMeadowIM.jpg);
 }
 
@@ -41,4 +43,10 @@ a:hover {
 
 a:visited {
 	color: yellow;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: .25em;
+  }
 }
